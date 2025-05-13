@@ -22,3 +22,7 @@ Text 500 paraules.
 ### Referencies i bibliografia 
 
 Fernández, Y. (2022, 19 junio). *Twitch: qué es, cómo funciona y TODO para sacarle el máximo partido.* Xataka. Recuperado 13 de mayo de 2025, de https://www.xataka.com/basics/twitch-que-como-funciona-todo-para-sacarle-maximo-partido
+*Historia del streaming: origen, evolución y futuro* | *Aleuto*. (s. f.). Recuperado 13 de mayo de 2025, de https://aleuto.es/noticias/historia-del-streaming
+Lee, J. (2020, 9 noviembre). Some fish beat Pokémon Sapphire after 3,195 hours. *Polygon*. https://www.polygon.com/2020/11/9/21556590/fish-pokemon-sapphire-stream-twitch
+*Twitch plays Pokémon*. (2024, 12 octubre). Wikipedia, la Enciclopedia Libre. Recuperado 13 de mayo de 2025, de https://es.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon
+*Twitch.tv* | *About.* (s. f.). Twitch.tv. Recuperado 13 de mayo de 2025, de https://www.twitch.tv/p/es-es/about/
