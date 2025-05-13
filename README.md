@@ -17,7 +17,7 @@ La comunicació alternativa via internet on s'origina a la plataforma de vídeos
 
 ## Re-descobrint la hibridació: Cas 2
 
-Amb la introducció dels gràfics en 3D el món cultural (cinema, videojocs, fotografia) ha anat evolucionant cada vegada més en tècniques i nous programes per idear i crear noves obres d'art. 
+Amb la introducció dels gràfics en 3D el món cultural (cinema, videojocs, fotografia) ha anat evolucionant cada vegada més en tècniques i nous programes per idear i crear noves obres d'art. Recrear humans en 3D ha estat un repte des dels inicis, sobretot pels projectes fotorealistes que era molt complicat aconseguir un resultat satisfactori, ja que, tant per les textures o les capacitats computacionals, el 3D donava una imatge gomossa i antinatural, però amb l'arribada de noves tècniques i potencia en *hardware* això ha canviat. Els nous motors gràfics poden suportar molts més poligons i textures de més resolució augmentant la qualitat final dels models fent que els problemes que tenien les primeres generacions d'artistes 3D i animadors s'esveixin. Un d'aquest motors es l'*Unreal Engine* que des de la seva quarta versió es col·loca al davant de la industria per la seva accessibilitat, facilitats i comoditat a l'hora de treballar-hi, ja que és un programa gratuit que pot accedir-hi qualsevol persona, però amb la seva última actualització (Unreal Engine 5) ha portat a un nou nivell el món del cinema i del videojoc. Dintre de les novetats es troba una eina anomenada *Metahuman*, una tecnologia que proporcionava a l'usuari l'oportunitat de crear un model 3D fotorealista d'un bust humà.
 
 ### Referencies i bibliografia 
 
