@@ -21,4 +21,4 @@ Text 500 paraules.
 
 ### Referencies i bibliografia 
 
-- ref
+Fernández, Y. (2022, 19 junio). *Twitch: qué es, cómo funciona y TODO para sacarle el máximo partido.* Xataka. Recuperado 13 de mayo de 2025, de https://www.xataka.com/basics/twitch-que-como-funciona-todo-para-sacarle-maximo-partido
