@@ -4,8 +4,7 @@ Autor: Roger Salvany García
 
 Data: 14/05/2025
 
-![Logo twitch](https://pbs.twimg.com/profile_images/1903140828152823808/FAufQwqc_400x400.jpg)
-
+![foto metehuman](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2021/02/unreal-engine-metahuman-creator-2228569.jpg?tf=3840x)
 
 ## Plantejament
 
