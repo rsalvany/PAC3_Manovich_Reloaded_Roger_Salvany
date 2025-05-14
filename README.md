@@ -30,3 +30,5 @@ Lee, J. (2020, 9 noviembre). Some fish beat Pokémon Sapphire after 3,195 hours.
 *Twitch plays Pokémon*. (2024, 12 octubre). Wikipedia, la Enciclopedia Libre. Recuperado 13 de mayo de 2025, de https://es.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon
 
 *Twitch.tv* | *About.* (s. f.). Twitch.tv. Recuperado 13 de mayo de 2025, de https://www.twitch.tv/p/es-es/about/
+
+Unreal Engine. (2023, 30 marzo). *Hellblade actor demos MetaHuman Animator | State of Unreal | GDC 2023* [Vídeo]. YouTube. Recuperado 14 de mayo de 2025, de https://www.youtube.com/watch?v=uAYl2rOtgM4
