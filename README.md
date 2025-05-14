@@ -4,7 +4,7 @@ Autor: Roger Salvany García
 
 Data: 14/05/2025
 
-![https://pbs.twimg.com/profile_images/1903140828152823808/FAufQwqc_400x400.jpg]
+!(https://pbs.twimg.com/profile_images/1903140828152823808/FAufQwqc_400x400.jpg)
 
 
 ## Plantejament
