@@ -27,8 +27,12 @@ Fernández, Y. (2022, 19 junio). *Twitch: qué es, cómo funciona y TODO para sa
 
 Lee, J. (2020, 9 noviembre). Some fish beat Pokémon Sapphire after 3,195 hours. *Polygon*. https://www.polygon.com/2020/11/9/21556590/fish-pokemon-sapphire-stream-twitch
 
-*Twitch plays Pokémon*. (2024, 12 octubre). Wikipedia, la Enciclopedia Libre. Recuperado 13 de mayo de 2025, de https://es.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon
-
 *Twitch.tv* | *About.* (s. f.). Twitch.tv. Recuperado 13 de mayo de 2025, de https://www.twitch.tv/p/es-es/about/
 
+*Twitch plays Pokémon*. (2024, 12 octubre). Wikipedia, la Enciclopedia Libre. Recuperado 13 de mayo de 2025, de https://es.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon
+
 Unreal Engine. (2023, 30 marzo). *Hellblade actor demos MetaHuman Animator | State of Unreal | GDC 2023* [Vídeo]. YouTube. Recuperado 14 de mayo de 2025, de https://www.youtube.com/watch?v=uAYl2rOtgM4
+
+Unreal Engine. (2025). *La nueva función MetaHuman Animator facilita la captura de movimiento de alta fidelidad para los MetaHumans.* Metahuman. Recuperado 13 de mayo de 2025, de https://www.unrealengine.com/es-ES/blog/new-metahuman-animator-feature-set-to-bring-easy-high-fidelity-performance-capture-to-metahumans
+
+Unreal Engine. (2025). *Humanos digitales fotorrealistas fáciles de crear. Metahuman.* Recuperado 13 de mayo de 2025, de https://www.unrealengine.com/es-ES/metahuman
